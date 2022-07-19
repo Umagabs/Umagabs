@@ -6,9 +6,6 @@
 📖 Cursando Análise e Desenvolvimento de Sistemas - Fatec de São Paulo </br>
 👀 Procurando estágio</br>
 
-![Gabriela Juvencio GitHub stats](https://github-readme-stats.vercel.app/api?username=Umagabs&show_icons=true&theme=jolly&count_private=true) </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umagabs&layout=compact)](https://github.com/Umagabs/github-readme-stats)</br>
 
 ## Tecnologias que estou desenvolvendo ##
 
